@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    font-family:sans-serif;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: space;
+}
+
+li {
+    margin: 5px 2%;
+    width: 28%;
+    background-color: coral;
+}
+
+.s p, img, table {
+    width:80%;
+}
+
+.s p, table {
+    margin-left: 10%;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+table {
+    border: 1px white solid;
+    margin-bottom: 5px;
+}
+
+.cock {
+    background-color: rgb(235, 232, 232);
+    margin-left: 10%;
+    margin-top: 3%;
+    padding: 100px 0px;
+    width: 80%;
+    color:rgb(92, 92, 92);
+}
+
+td {
+    border: 1px white solid;
+}
+
+.bg {
+    width: 100%;
+}
